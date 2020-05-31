@@ -72,11 +72,15 @@
   </div>
 </div> -->
 
-<div class="relative min-h-screen overflow-hidden bg-gray-900 lg:bg-gray-300">
+<div class="relative min-h-screen overflow-hidden">
   <div class="hidden lg:block absolute scroll-bg" style="height: 100%; width: 100%; top: -25%; left: -100%; background-size: 800px auto; background-image: url('');"></div>
     <div class="relative min-h-screen lg:min-w-3xl xl:min-w-4xl lg:flex lg:items-center lg:justify-center lg:w-3/5 lg:py-20 lg:pl-8 lg:pr-8 bg-no-repeat" style="background-image: url('https://tailwindui.com/img/angled-background.svg');background-size: 100% auto;background-position: -5px -5px;">
+    <svg viewBox="0 0 100 1200" fill="#161e2e" xmlns="http://www.w3.org/2000/svg">
+      <polygon points="0,0 100,0 0,1200"/>
+    </svg>
       <div>
         <div class="px-6 md:max-w-3xl md:mx-auto lg:mx-0 lg:max-w-none lg:pt-0 lg:pb-16">
+
           <div class="flex items-center justify-between">
             <div class="flex font-sans min-h-screen flex-col content-center justify-around text-2xl md:text-5xl">
                 <div class="fade-in-1 duration-500 ease-in-out text-orange-600 font-medium text-2xl md:text-5xl text-center px-4 mx-2 ">Sathya Sai</div>
