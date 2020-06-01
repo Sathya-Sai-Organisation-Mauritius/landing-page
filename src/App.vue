@@ -1,7 +1,7 @@
 <template>
   
   <!--simple version-->
-  <!-- <div class="flex bg-gray-200 font-sans min-h-screen flex-col content-center justify-center text-2xl md:text-5xl">
+  <div class="flex bg-gray-200 font-sans min-h-screen flex-col content-center justify-center text-2xl md:text-5xl">
       <div class="transition duration-500 ease-in-out text-orange-600 font-medium text-2xl md:text-5xl text-center px-4 pt-2 mx-2 mt-2">Sathya Sai</div>
       <div class="transition delay-150 ease-in-out text-orange-600 font-medium text-2xl md:text-5xl text-center px-4 pb-2 mx-2 mb-2">International Organisation</div>
       <div class="fade-in-3 text-orange-600 font-bold text-4xl md:text-6xl text-center px-4 py-2 mx-2 my-2">Mauritius </div>
@@ -11,33 +11,25 @@
        
       
       <div class="fade-in-5 text-orange-600 font-medium text-2xl md:text-4xl text-center px-4 py-2 m-2">Coming soon...</div>
-  </div> -->
+  </div>
 
 <!--working on version-->
   
 
-<div class="lg:flex  lg:min-h-screen" style="background-image: url(images/logo.png)" >
+<!-- <div class="lg:flex  lg:min-h-screen bg-repeat" style="background-image: url(images/flower2.jpg)" >
 
   <div class="relative w-12/12 lg:w-6/12 text-gray-700 bg-white text-center">
     <div class=" bg-white relative flex justify-center lg:min-h-screen "> 
       <div class=" bg--300 absolute min-h-full p-12">
           <div class="flex flex-col text-gray-700 text-center">
-            <div class="fade-in-1 text-orange-600 text-center text-xl md:text-5xl px-4 pt-8 mx-2 mt-8">Sathya Sai</div>
-            <div class="fade-in-2 text-orange-600 text-center text-xl md:text-5xl px-4 mb-2 md:mb-8">International Organisation</div>
+            <div class="fade-in-1 text-orange-600 text-center text-xl md:text-3xl lg:text-5xl px-4 pt-8 mx-2 mt-8">Sathya Sai</div>
+            <div class="fade-in-2 text-orange-600 text-center text-xl md:text-3xl lg:text-5xl px-4 mb-2 md:mb-8">International Organisation</div>
           </div>
-            <div class="fade-in-3 text-orange-600 text-center font-bold text-2xl md:text-5xl px-4 py-2 md:py-8 mx-2">Mauritius</div>
+            <div class="fade-in-3 text-orange-600 text-center font-bold text-2xl md:text-4xl lg:text-5xl px-4 py-2 md:py-8 mx-2">Mauritius</div>
             <div class="fade-in-4 text-orange-600 text-center px-4 py-8 m-2">
                 <img class="mx-auto h-full w-48 md:w-auto" src="http://saibabamauritius.org/sites/all/themes/surya/logo.png"/>
             </div>
-            <div class="fade-in-5 text-orange-600 font-medium text-xl md:text-4xl text-center px-4 py-2 md:py-8 mx-2 mb-2">Coming soon...</div>
-    
-          <!-- <div class="flex items-center justify-between grid grid-cols-3 gap-12">
-            <div class="col-span-3 bg-gray-300 text-xl md:text-4xl">Sathya Sai</div>
-            <div class="col-span-3 bg-gray-300 text-xl md:text-4xl">International Organisation</div>
-            <div class="col-span-3 bg-gray-300 text-xl md:text-4xl">3</div>
-            <div class="col-span-3 bg-gray-300 text-xl md:text-4xl">4</div>
-            <div class="col-span-3 bg-gray-300 text-xl md:text-4xl">5</div>
-          </div> -->
+            <div class="fade-in-5 text-orange-600 font-medium text-xl md:text-3xl lg:text-4xl text-center px-4 py-2 md:py-8 mx-2 mb-2">Coming soon...</div>
 
       </div>
     </div>
@@ -51,7 +43,7 @@
 
   <div class="relative overflow-hidden lg:hidden lg:w-5/12 text-gray-700 text-center px-4 py-2 m-2"></div>
 
-</div>
+</div> -->
 
 
 
