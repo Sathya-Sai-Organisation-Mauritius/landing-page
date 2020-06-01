@@ -1,7 +1,7 @@
 <template>
   
   <!--simple version-->
-  <div class="flex bg-gray-200 font-sans min-h-screen flex-col content-center justify-center text-2xl md:text-5xl">
+  <!-- <div class="flex bg-gray-200 font-sans min-h-screen flex-col content-center justify-center text-2xl md:text-5xl">
       <div class="transition duration-500 ease-in-out text-orange-600 font-medium text-2xl md:text-5xl text-center px-4 pt-2 mx-2 mt-2">Sathya Sai</div>
       <div class="transition delay-150 ease-in-out text-orange-600 font-medium text-2xl md:text-5xl text-center px-4 pb-2 mx-2 mb-2">International Organisation</div>
       <div class="fade-in-3 text-orange-600 font-bold text-4xl md:text-6xl text-center px-4 py-2 mx-2 my-2">Mauritius </div>
@@ -11,25 +11,26 @@
        
       
       <div class="fade-in-5 text-orange-600 font-medium text-2xl md:text-4xl text-center px-4 py-2 m-2">Coming soon...</div>
-  </div>
+  </div> -->
 
 <!--working on version-->
   
 
-<!-- <div class="lg:flex  lg:min-h-screen bg-repeat" style="background-image: url(images/flower2.jpg)" >
+<div class="lg:flex flex-shrink-0 lg:min-h-screen bg-repeat" style="background-image: url(images/flower2.jpg)" >
 
   <div class="relative w-12/12 lg:w-6/12 text-gray-700 bg-white text-center">
-    <div class=" bg-white relative flex justify-center lg:min-h-screen "> 
-      <div class=" bg--300 absolute min-h-full p-12">
-          <div class="flex flex-col text-gray-700 text-center">
-            <div class="fade-in-1 text-orange-600 text-center text-xl md:text-3xl lg:text-5xl px-4 pt-8 mx-2 mt-8">Sathya Sai</div>
-            <div class="fade-in-2 text-orange-600 text-center text-xl md:text-3xl lg:text-5xl px-4 mb-2 md:mb-8">International Organisation</div>
-          </div>
-            <div class="fade-in-3 text-orange-600 text-center font-bold text-2xl md:text-4xl lg:text-5xl px-4 py-2 md:py-8 mx-2">Mauritius</div>
-            <div class="fade-in-4 text-orange-600 text-center px-4 py-8 m-2">
-                <img class="mx-auto h-full w-48 md:w-auto" src="http://saibabamauritius.org/sites/all/themes/surya/logo.png"/>
+    <div class=" bg-white relative flex justify-center lg:min-h-screen lg:-mr-20"> 
+      <div class="relative bg--300 lg:min-h-full py-12">
+            <div class="flex flex-col text-gray-700 text-center">
+              <div class="fade-in-1 text-orange-600 text-center text-xl lg:text-5xl lg:px-4 lg:pt-8 lg:mx-2 lg:mt-8">Sathya Sai</div>
+              <div class="fade-in-2 text-orange-600 text-center text-xl lg:text-5xl lg:px-4 lg:mb-2 lg:mb-4">International Organisation</div>
             </div>
-            <div class="fade-in-5 text-orange-600 font-medium text-xl md:text-3xl lg:text-4xl text-center px-4 py-2 md:py-8 mx-2 mb-2">Coming soon...</div>
+              <div class="fade-in-3 text-orange-600 text-center font-bold text-2xl lg:text-6xl lg:px-4 lg:py-2 md:pt-8 lg:mx-2">Mauritius</div>
+              <div class="fade-in-4 text-orange-600 text-center px-4 py-8 m-2">
+                  <img class="mx-auto h-full w-48 md:w-auto" src="http://saibabamauritius.org/sites/all/themes/surya/logo.png"/>
+              </div>
+      
+              <div class="fade-in-5 text-orange-600 font-medium text-xl lg:text-5xl text-center lg:px-4 lg:py-2 lg:md:py-8 lg:mx-2 mb-2">Coming soon...</div>
 
       </div>
     </div>
@@ -43,38 +44,8 @@
 
   <div class="relative overflow-hidden lg:hidden lg:w-5/12 text-gray-700 text-center px-4 py-2 m-2"></div>
 
-</div> -->
+</div>
 
-
-
-
-<!-- <div class="relative min-h-screen overflow-hidden">
-  <div class="hidden lg:block absolute scroll-bg" style="height: 100%; width: 100%; top: -25%; left: -100%; background-size: 800px auto; background-image: url('');"></div>
-    <div class="relative min-h-screen lg:min-w-3xl xl:min-w-4xl lg:flex lg:items-center lg:justify-center lg:w-3/5 lg:py-20 lg:pl-8 lg:pr-8 bg-no-repeat" style="background-image: url('https://tailwindui.com/img/angled-background.svg');background-size: 100% auto;background-position: -5px -5px;">
-    <div>
-      <svg viewBox="0 0 100 1200" fill="#161e2e" xmlns="http://www.w3.org/2000/svg">
-      <polygon points="0,0 100,0 0,1200"/>
-     </svg>
-    </div>
-      <div>
-        <div class="px-6 md:max-w-3xl md:mx-auto lg:mx-0 lg:max-w-none lg:pt-0 lg:pb-16">
-
-          <div class="flex items-center justify-between">
-            <div class="flex font-sans min-h-screen flex-col content-center justify-around text-2xl md:text-5xl">
-                <div class="fade-in-1 duration-500 ease-in-out text-orange-600 font-medium text-2xl md:text-5xl text-center px-4 mx-2 ">Sathya Sai</div>
-                <div class="fade-in-2 delay-150 ease-in-out text-orange-600 font-medium text-2xl md:text-5xl text-center px-4 pb-2 mx-2 mb-2 -mt-16">International Organisation</div>
-                <div class="fade-in-3 text-orange-600 font-bold text-4xl md:text-6xl text-center px-4 py-2 mx-2 my-2">Mauritius </div>
-                <div class="fade-in-4 text-center py-2 my-4">
-                  <img class="mx-auto h-full w-48 md:w-auto" src="http://saibabamauritius.org/sites/all/themes/surya/logo.png"/>
-                </div>
-                <div class="fade-in-5 text-orange-600 font-medium tesxt-2xl md:text-4xl text-center px-4 py-2 m-2">Coming soon...</div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div> -->
 </template>
 
 <script>
