@@ -16,10 +16,10 @@
 <!--working on version-->
   
 
-<div class="md:flex  md:min-h-screen" style="background-image: url(images/logo.png)" >
+<div class="lg:flex  lg:min-h-screen" style="background-image: url(images/logo.png)" >
 
-  <div class="relative w-12/12 md:w-6/12 text-gray-700 bg-white text-center">
-    <div class=" bg-white relative flex justify-center md:min-h-screen "> 
+  <div class="relative w-12/12 lg:w-6/12 text-gray-700 bg-white text-center">
+    <div class=" bg-white relative flex justify-center lg:min-h-screen "> 
       <div class=" bg--300 absolute min-h-full p-12">
           <div class="flex flex-col text-gray-700 text-center">
             <div class="fade-in-1 text-orange-600 text-center text-xl md:text-5xl px-4 pt-8 mx-2 mt-8">Sathya Sai</div>
@@ -43,13 +43,13 @@
     </div>
   </div>
 
-  <div class="relative overflow-hidden md:w-1/12 text-center -ml-2 mr-2 md:h-1200 md:w-100">
+  <div class="relative overflow-hidden lg:w-1/12 text-center -ml-2 mr-2 lg:h-1200 lg:w-100">
     <svg class="absolute top-0 left-0 overflow-hidden" viewBox="0 0 100 1200" fill="#FFFFFF" xmlns="http://www.w3.org/2000/svg">
       <polygon points="0,0 100,0 0,1200"/>
     </svg>
   </div>
 
-  <div class="relative overflow-hidden lg:hidden md:w-5/12 text-gray-700 text-center px-4 py-2 m-2"></div>
+  <div class="relative overflow-hidden lg:hidden lg:w-5/12 text-gray-700 text-center px-4 py-2 m-2"></div>
 
 </div>
 
