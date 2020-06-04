@@ -5,7 +5,7 @@
 
       <div class="lg:flex flex-wrap">
         <div class="flex-1 lg:relative bg-white w-full lg:w-4/5">
-          <div class="relative  lg:flex lg:justify-end md:justify-center justify-center lg:min-h-screen"> 
+          <div class="relative  lg:flex lg:justify-center items-center md:justify-center justify-center lg:min-h-screen"> 
             <div class="relative lg:min-h-full py-12">
                   <div class="flex flex-col text-gray-700 text-center">
                     <div class="fade-in-1  animation-delay text-orange-600 text-center text-xl md:text-4xl lg:text-5xl lg:px-4 lg:pt-8 lg:mx-2 lg:mt-8" style="--delay: 500ms" >Sathya Sai</div>
