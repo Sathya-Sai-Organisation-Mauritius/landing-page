@@ -1,12 +1,12 @@
 <template>
-<div class="" style="background-image: url(images/flower2.jpg)" >
+<div class="min-h-screen" style="background-image: url(images/flower2.jpg)" >
   <div class="flex flex-wrap">
     <div class="w-full lg:w-1/2 py-8 lg:py-0">
 
-      <div class="flex flex-wrap">
-        <div class="relative bg-white w-full lg:w-4/5">
-          <div class="relative  flex lg:justify-end md:justify-center justify-center min-h-screen"> 
-            <div class="relative lg:min-h-full pt-12">
+      <div class="lg:flex flex-wrap">
+        <div class="flex-1 lg:relative bg-white w-full lg:w-4/5">
+          <div class="relative  lg:flex lg:justify-end md:justify-center justify-center lg:min-h-screen"> 
+            <div class="relative lg:min-h-full py-12">
                   <div class="flex flex-col text-gray-700 text-center">
                     <div class="fade-in-1  animation-delay text-orange-600 text-center text-xl md:text-4xl lg:text-5xl lg:px-4 lg:pt-8 lg:mx-2 lg:mt-8" style="--delay: 500ms" >Sathya Sai</div>
                     <div class="fade-in-1 animation-delay text-orange-600 text-center text-xl md:text-4xl lg:text-5xl lg:px-4 lg:mb-2 lg:mb-4" style="--delay: 500ms">International Organisation</div>
@@ -19,7 +19,7 @@
             </div>
           </div>
         </div>
-        <div class="w-0 lg:w-1/5 bg--200 overflow-hidden min-h-screen">
+        <div class="w-0 lg:w-1/5 bg--200 hidden -ml-2 lg:block lg:overflow-hidden min-h-screen">
            <div class="relative text-center -ml-2 mr-2 lg:h-1200 lg:w-100">
               <svg class="absolute top-0 left-0 md:overflow-hidden" viewBox="0 0 100 1200" fill="#FFFFFF" xmlns="http://www.w3.org/2000/svg">
                 <polygon points="0,0 100,0 0,1200"/>
